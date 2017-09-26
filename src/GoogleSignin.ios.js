@@ -37,7 +37,7 @@ class GoogleSigninButton extends Component {
     );
   }
 }
-
+/*
 GoogleSigninButton.Size = {
   Icon: RNGoogleSignin.BUTTON_SIZE_ICON,
   Standard: RNGoogleSignin.BUTTON_SIZE_STANDARD,
@@ -49,7 +49,7 @@ GoogleSigninButton.Color = {
   Light: RNGoogleSignin.BUTTON_COLOR_LIGHT,
   Dark: RNGoogleSignin.BUTTON_COLOR_DARK
 };
-
+*/
 class GoogleSignin {
 
   constructor() {
